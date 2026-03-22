@@ -20,6 +20,5 @@ if (valorPedido >= 80) {
 
 let total = valorPedido + frete;
 
-// Saída
 console.log("Frete: R$ " + frete);
 console.log("Total a pagar: R$ " + total);
